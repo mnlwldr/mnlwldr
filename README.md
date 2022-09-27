@@ -20,3 +20,7 @@ I love hearing from people around the world.
 * Twitter [mnlwldr](https://www.twitter.com/mnlwldr)
 * Matrix @mnlwldr:mozilla.org
 * E-Mail [mnlwldr@gmail.com](mailto:mnlwldr@gmail.com)
+
+## 📝 Notes
+
+I have a blog alike repository [here](https://github.com/mnlwldr/notes/blob/main/README.md) because I'm to lazy to host my own blog.
