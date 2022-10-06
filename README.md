@@ -21,14 +21,14 @@ I love hearing from people around the world.
 * Matrix @mnlwldr:mozilla.org
 * E-Mail [mnlwldr@gmail.com](mailto:mnlwldr@gmail.com)
 
-## :memo: Notes
+## 📝 Notes
 
 I have a blog alike repository [here](https://github.com/mnlwldr/notes/blob/main/README.md) because I'm to lazy to host my own blog.
 
-## :watch: Now
+## ⌚ Now
 
 My [now page](https://github.com/mnlwldr/now/blob/main/Readme.md).
 
-## :computer: Uses
+## 💻 Uses
 
 My [uses page](https://github.com/mnlwldr/uses/blob/main/Readme.md).
