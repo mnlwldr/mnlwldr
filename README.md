@@ -17,6 +17,6 @@ I started with QBasic in the early nineties. Over the time, I tried a lot of pro
 
 I love hearing from people around the world.
 
-* Twitter [mnlwldr](https://www.twitter.com/mnlwldr)
+* BlueSky [mnlwldr.bsky.social](https://bsky.app/profile/mnlwldr.bsky.social)
 * Matrix @mnlwldr:mozilla.org
 * E-Mail [mnlwldr@gmail.com](mailto:mnlwldr@gmail.com)
