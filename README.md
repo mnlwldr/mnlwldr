@@ -21,4 +21,6 @@ I love hearing from people around the world.
 * Matrix @mnlwldr:mozilla.org
 * E-Mail [mnlwldr@gmail.com](mailto:mnlwldr@gmail.com)
 
+## 📊 Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnlwldr&hide=html)
