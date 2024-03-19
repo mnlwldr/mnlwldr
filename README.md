@@ -1,7 +1,5 @@
 ### 👋 Hi there 
 
-I'm a software developer with over a decade of experience, building robust solutions and adhering to design patterns and clean code principles... HAHA, I have to laugh at myself. 
-
 *******
 
 ## 🔭 Here is my usual developer sales pitch
