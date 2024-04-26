@@ -13,8 +13,6 @@
 
 I love hearing from people around the world.
 
-* Bluesky [mnlwldr.bsky.social](https://bsky.app/profile/mnlwldr.bsky.social)
-* Matrix @mnlwldr:mozilla.org
 * E-Mail [mnlwldr@gmail.com](mailto:mnlwldr@gmail.com)
 
 ## 📊 Stats
