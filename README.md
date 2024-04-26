@@ -14,7 +14,3 @@
 I love hearing from people around the world.
 
 * E-Mail [mnlwldr@gmail.com](mailto:mnlwldr@gmail.com)
-
-## 📊 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnlwldr&hide=html)
