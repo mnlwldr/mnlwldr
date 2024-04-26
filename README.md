@@ -9,8 +9,6 @@
 * Programming in Go, Java, and PHP
 * Application back-end development
 
-I started with QBasic in the early nineties. Over time, I tried a lot of programming languages like C, Python, Ruby and more. Currently, I am programming in Java, Go, and PHP. I have many years of experience working with relational databases like MySQL. Lately, I have gained some experience with Apache Kafka, Apache Camel, and Kubernetes. 
-
 ## 📫 How to reach me
 
 I love hearing from people around the world.
